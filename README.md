@@ -33,47 +33,47 @@
 <table>
   <tr>
     <td align="center" width="98">
-      <a href="#mahmud-tech">
+      <a href="KartrexOfficial">
         <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/kotlin-dark.svg" width="48" height="48" alt="" />
       </a>
     </td>
     <td align="center" width="98">
-      <a href="#mahmud0808-tech">
+      <a href="KartrexOfficial">
         <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/java-dark.svg" width="48" height="48" alt="" />
       </a>
     </td>
     <td align="center" width="98">
-      <a href="#mahmud0808-tech">
+      <a href="KartrexOfficial">
         <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/python-dark.svg" width="48" height="48" alt="" />
       </a>
     </td>
     <td align="center" width="98">
-      <a href="#mahmud0808-tech">
+      <a href="KartrexOfficial">
         <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/c.svg" width="48" height="48" alt="" />
       </a>
     </td>
     <td align="center" width="98">
-      <a href="#mahmud0808-tech">
+      <a href="KartrexOfficial">
         <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/cpp.svg" width="48" height="48" alt="" />
       </a>
     </td>
     <td align="center" width="98">
-      <a href="#mahmud0808-tech">
+      <a href="KartrexOfficial">
         <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/dart-dark.svg" width="48" height="48" alt="" />
       </a>
     </td>
     <td align="center" width="98">
-      <a href="#mahmud0808-tech">
+      <a href="KartrexOfficial">
         <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/nodejs-dark.svg" width="48" height="48" alt="" />
       </a>
     </td>
     <td align="center" width="98">
-      <a href="#mahmud0808-tech">
+      <a href="KartrexOfficial">
         <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/react-dark.svg" width="48" height="48" alt="" />
       </a>
     </td>
     <td align="center" width="98">
-      <a href="#mahmud0808-tech">
+      <a href="KartrexOfficial">
         <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/nextjs-dark.svg" width="48" height="48" alt="" />
       </a>
     </td>
@@ -109,47 +109,47 @@
   </tr>
   <tr>
     <td align="center" width="98">
-      <a href="#mahmud0808-tech">
+      <a href="KartrexOfficial">
         <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/androidstudio-dark.svg" width="48" height="48" alt="" />
       </a>
     </td>
     <td align="center" width="98">
-      <a href="#mahmud0808-tech">
+      <a href="KartrexOfficial">
         <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/vscode-dark.svg" width="48" height="48" alt="" />
       </a>
     </td>
     <td align="center" width="98">
-      <a href="#mahmud0808-tech">
+      <a href="KartrexOfficial">
         <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/pycharm-dark.svg" width="48" height="48" alt="" />
       </a>
     </td>
     <td align="center" width="98">
-      <a href="#mahmud0808-tech">
+      <a href="KartrexOfficial">
         <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/flutter-dark.svg" width="48" height="48" alt="" />
       </a>
     </td>
     <td align="center" width="98">
-      <a href="#mahmud0808-tech">
+      <a href="KartrexOfficial">
         <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/jetpackcompose-dark.svg" width="48" height="48" alt="" />
       </a>
     </td>
     <td align="center" width="98">
-      <a href="#mahmud0808-tech">
+      <a href="KartrexOfficial">
         <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/photoshop.svg" width="48" height="48" alt="" />
       </a>
     </td>
     <td align="center" width="98">
-      <a href="#mahmud0808-tech">
+      <a href="KartrexOfficial">
         <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/illustrator.svg" width="48" height="48" alt="" />
       </a>
     </td>
     <td align="center" width="98">
-      <a href="#mahmud0808-tech">
+      <a href="KartrexOfficial">
         <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/xd.svg" width="48" height="48" alt="" />
       </a>
     </td>
     <td align="center" width="98">
-      <a href="#mahmud0808-tech">
+      <a href="KartrexOfficial">
         <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/figma-dark.svg" width="48" height="48" alt="" />
       </a>
     </td>
@@ -185,47 +185,47 @@
   </tr>
   <tr>
     <td align="center" width="98">
-      <a href="#mahmud0808-tech">
+      <a href="KartrexOfficial">
         <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/git-dark.svg" width="48" height="48" alt="" />
       </a>
     </td>
     <td align="center" width="98">
-      <a href="#mahmud0808-tech">
+      <a href="KartrexOfficial">
         <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/firebase-dark.svg" width="48" height="48" alt="" />
       </a>
     </td>
     <td align="center" width="98">
-      <a href="#mahmud0808-tech">
+      <a href="KartrexOfficial">
         <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/mongodb.svg" width="48" height="48" alt="" />
       </a>
     </td>
     <td align="center" width="98">
-      <a href="#mahmud0808-tech">
+      <a href="KartrexOfficial">
         <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/mysql-dark.svg" width="48" height="48" alt="" />
       </a>
     </td>
     <td align="center" width="98">
-      <a href="#mahmud0808-tech">
+      <a href="KartrexOfficial">
         <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/javascript.svg" width="48" height="48" alt="" />
       </a>
     </td>
     <td align="center" width="98">
-      <a href="#mahmud0808-tech">
+      <a href="KartrexOfficial">
         <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/typescript.svg" width="48" height="48" alt="" />
       </a>
     </td>
     <td align="center" width="98">
-      <a href="#mahmud0808-tech">
+      <a href="KartrexOfficial">
         <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/php-dark.svg" width="48" height="48" alt="" />
       </a>
     </td>
     <td align="center" width="98">
-      <a href="#mahmud0808-tech">
+      <a href="KartrexOfficial">
         <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/bash-dark.svg" width="48" height="48" alt="" />
       </a>
     </td>
     <td align="center" width="98">
-      <a href="#mahmud0808-tech">
+      <a href="KartrexOfficial">
         <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/regex-dark.svg" width="48" height="48" alt="" />
       </a>
     </td>
@@ -261,19 +261,42 @@
   </tr>
   <tr>
     <td align="center" width="98">
-      <a href="#mahmud0808-tech">
+      <a href="KartrexOfficial">
         <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/arduino.svg" width="48" height="48" alt="" />
       </a>
     </td>
     <td align="center" width="98">
-      <a href="#mahmud0808-tech">
+      <a href="KartrexOfficial">
         <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/html.svg" width="48" height="48" alt="" />
+      </a>
+    </td>
+    <td align="center" width="98">
+      <a href="KartrexOfficial">
+        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/css.svg" width="48" height="48" alt="" />
+      </a>
+    </td>
+    <td align="center" width="98">
+      <a href="KartrexOfficial">
+        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/tailwindcss-dark.svg" width="48" height="48" alt="" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="98">
+      Arduino
     </td>
     <td align="center" width="98">
       HTML5
     </td>
+    <td align="center" width="98">
+      CSS3
+    </td>
+    <td align="center" width="98">
+      Tailwind<br>CSS
+    </td>
   </tr>
 </table>
+
 
 <h2 align="left" id="mahmud0808-stats">Activities & Stats</h2>
 
