@@ -34,103 +34,17 @@
   <tr>
     <td align="center" width="98">
       <a href="KartrexOfficial">
-        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/kotlin-dark.svg" width="48" height="48" alt="" />
-      </a>
-    </td>
-    <td align="center" width="98">
-      <a href="KartrexOfficial">
-        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/java-dark.svg" width="48" height="48" alt="" />
-      </a>
-    </td>
-    <td align="center" width="98">
-      <a href="KartrexOfficial">
-        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/python-dark.svg" width="48" height="48" alt="" />
-      </a>
-    </td>
-    <td align="center" width="98">
-      <a href="KartrexOfficial">
-        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/c.svg" width="48" height="48" alt="" />
-      </a>
-    </td>
-    <td align="center" width="98">
-      <a href="KartrexOfficial">
         <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/cpp.svg" width="48" height="48" alt="" />
       </a>
-    </td>
-    <td align="center" width="98">
-      <a href="KartrexOfficial">
-        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/dart-dark.svg" width="48" height="48" alt="" />
-      </a>
-    </td>
-    <td align="center" width="98">
-      <a href="KartrexOfficial">
-        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/nodejs-dark.svg" width="48" height="48" alt="" />
-      </a>
-    </td>
-    <td align="center" width="98">
-      <a href="KartrexOfficial">
-        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/react-dark.svg" width="48" height="48" alt="" />
-      </a>
-    </td>
-    <td align="center" width="98">
-      <a href="KartrexOfficial">
-        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/nextjs-dark.svg" width="48" height="48" alt="" />
-      </a>
-    </td>
   </tr>
   <tr>
     <td align="center" width="98">
-      Kotlin
-    </td>
-    <td align="center" width="98">
-      Java
-    </td>
-    <td align="center" width="98">
-      Python
-    </td>
-    <td align="center" width="98">
-      C
-    </td>
-    <td align="center" width="98">
       C++
-    </td>
-    <td align="center" width="98">
-      Dart
-    </td>
-    <td align="center" width="98">
-      Node.js
-    </td>
-    <td align="center" width="98">
-      React
-    </td>
-    <td align="center" width="98">
-      Next.js
-    </td>
   </tr>
   <tr>
     <td align="center" width="98">
       <a href="KartrexOfficial">
         <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/androidstudio-dark.svg" width="48" height="48" alt="" />
-      </a>
-    </td>
-    <td align="center" width="98">
-      <a href="KartrexOfficial">
-        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/vscode-dark.svg" width="48" height="48" alt="" />
-      </a>
-    </td>
-    <td align="center" width="98">
-      <a href="KartrexOfficial">
-        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/pycharm-dark.svg" width="48" height="48" alt="" />
-      </a>
-    </td>
-    <td align="center" width="98">
-      <a href="KartrexOfficial">
-        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/flutter-dark.svg" width="48" height="48" alt="" />
-      </a>
-    </td>
-    <td align="center" width="98">
-      <a href="KartrexOfficial">
-        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/jetpackcompose-dark.svg" width="48" height="48" alt="" />
       </a>
     </td>
     <td align="center" width="98">
@@ -143,44 +57,16 @@
         <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/illustrator.svg" width="48" height="48" alt="" />
       </a>
     </td>
-    <td align="center" width="98">
-      <a href="KartrexOfficial">
-        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/xd.svg" width="48" height="48" alt="" />
-      </a>
-    </td>
-    <td align="center" width="98">
-      <a href="KartrexOfficial">
-        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/figma-dark.svg" width="48" height="48" alt="" />
-      </a>
-    </td>
   </tr>
   <tr>
     <td align="center" width="98">
       Android<br>Studio
     </td>
     <td align="center" width="98">
-      VS<br>Code
-    </td>
-    <td align="center" width="98">
-      Py<br>Charm
-    </td>
-    <td align="center" width="98">
-      Flutter
-    </td>
-    <td align="center" width="98">
-      Jetpack<br>Compose
-    </td>
-    <td align="center" width="98">
       Adobe<br>Photoshop
     </td>
     <td align="center" width="98">
       Adobe<br>Illustrator
-    </td>
-    <td align="center" width="98">
-      Adobe<br>XD
-    </td>
-    <td align="center" width="98">
-      Figma
     </td>
   </tr>
   <tr>
@@ -191,42 +77,12 @@
     </td>
     <td align="center" width="98">
       <a href="KartrexOfficial">
-        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/firebase-dark.svg" width="48" height="48" alt="" />
-      </a>
-    </td>
-    <td align="center" width="98">
-      <a href="KartrexOfficial">
-        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/mongodb.svg" width="48" height="48" alt="" />
-      </a>
-    </td>
-    <td align="center" width="98">
-      <a href="KartrexOfficial">
         <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/mysql-dark.svg" width="48" height="48" alt="" />
       </a>
     </td>
     <td align="center" width="98">
       <a href="KartrexOfficial">
-        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/javascript.svg" width="48" height="48" alt="" />
-      </a>
-    </td>
-    <td align="center" width="98">
-      <a href="KartrexOfficial">
-        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/typescript.svg" width="48" height="48" alt="" />
-      </a>
-    </td>
-    <td align="center" width="98">
-      <a href="KartrexOfficial">
-        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/php-dark.svg" width="48" height="48" alt="" />
-      </a>
-    </td>
-    <td align="center" width="98">
-      <a href="KartrexOfficial">
-        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/bash-dark.svg" width="48" height="48" alt="" />
-      </a>
-    </td>
-    <td align="center" width="98">
-      <a href="KartrexOfficial">
-        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/regex-dark.svg" width="48" height="48" alt="" />
+        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/html.svg" width="48" height="48" alt="" />
       </a>
     </td>
   </tr>
@@ -235,70 +91,17 @@
       Git
     </td>
     <td align="center" width="98">
-      Firebase
-    </td>
-    <td align="center" width="98">
-      MongoDB
-    </td>
-    <td align="center" width="98">
       MySQL
     </td>
     <td align="center" width="98">
-      JavaScript
-    </td>
-    <td align="center" width="98">
-      TypeScript
-    </td>
-    <td align="center" width="98">
-      PHP
-    </td>
-    <td align="center" width="98">
-      Bash
-    </td>
-    <td align="center" width="98">
-      RegEx
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="98">
-      <a href="KartrexOfficial">
-        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/arduino.svg" width="48" height="48" alt="" />
-      </a>
-    </td>
-    <td align="center" width="98">
-      <a href="KartrexOfficial">
-        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/html.svg" width="48" height="48" alt="" />
-      </a>
-    </td>
-    <td align="center" width="98">
-      <a href="KartrexOfficial">
-        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/css.svg" width="48" height="48" alt="" />
-      </a>
-    </td>
-    <td align="center" width="98">
-      <a href="KartrexOfficial">
-        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/tailwindcss-dark.svg" width="48" height="48" alt="" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="98">
-      Arduino
-    </td>
-    <td align="center" width="98">
       HTML5
-    </td>
-    <td align="center" width="98">
-      CSS3
-    </td>
-    <td align="center" width="98">
-      Tailwind<br>CSS
     </td>
   </tr>
 </table>
 
 
-<h2 align="left" id="mahmud0808-stats">Activities & Stats</h2>
+
+<h2 align="left" id="KartrexOfficial-stats">Activities & Stats</h2>
 
 > My activities and statistics on GitHub. (Updated every 4 hours)
 
