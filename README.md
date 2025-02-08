@@ -34,16 +34,6 @@
   <tr>
     <td align="center" width="98">
       <a href="KartrexOfficial">
-        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/cpp.svg" width="48" height="48" alt="" />
-      </a>
-  </tr>
-  <tr>
-    <td align="center" width="98">
-      C++
-  </tr>
-  <tr>
-    <td align="center" width="98">
-      <a href="KartrexOfficial">
         <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/androidstudio-dark.svg" width="48" height="48" alt="" />
       </a>
     </td>
@@ -72,7 +62,7 @@
   <tr>
     <td align="center" width="98">
       <a href="KartrexOfficial">
-        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/git-dark.svg" width="48" height="48" alt="" />
+        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/cpp.svg" width="48" height="48" alt="" />
       </a>
     </td>
     <td align="center" width="98">
@@ -88,7 +78,7 @@
   </tr>
   <tr>
     <td align="center" width="98">
-      Git
+      C++
     </td>
     <td align="center" width="98">
       MySQL
