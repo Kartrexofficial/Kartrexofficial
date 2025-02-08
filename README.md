@@ -8,8 +8,6 @@
 
 - :speech_balloon: I like to talk about **[Doing Nothing](https://www.wikihow.com/Do-Nothing)**
 
-- :mailbox: Ask me anything at **[Discussions](https://github.com/Mahmud0808/Mahmud0808/discussions/new)**
-
 - :computer: Connect with me on **[Telegram](https://telegram.me/KartrexOfficial)**
 
 - :eyes: Fun fact **I have no special talent**
