@@ -26,68 +26,6 @@
 
 <h2 align="left" id="Kartrexofficial-tech">Favorite Tech</h2>
 
-> Tools, languages and other things that I like to work with.
-
-<table>
-  <tr>
-    <td align="center" width="98">
-      <a href="KartrexOfficial">
-        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/androidstudio-dark.svg" width="48" height="48" alt="" />
-      </a>
-    </td>
-    <td align="center" width="98">
-      <a href="KartrexOfficial">
-        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/photoshop.svg" width="48" height="48" alt="" />
-      </a>
-    </td>
-    <td align="center" width="98">
-      <a href="KartrexOfficial">
-        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/illustrator.svg" width="48" height="48" alt="" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="98">
-      Android<br>Studio
-    </td>
-    <td align="center" width="98">
-      Adobe<br>Photoshop
-    </td>
-    <td align="center" width="98">
-      Adobe<br>Illustrator
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="98">
-      <a href="KartrexOfficial">
-        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/cpp.svg" width="48" height="48" alt="" />
-      </a>
-    </td>
-    <td align="center" width="98">
-      <a href="KartrexOfficial">
-        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/mysql-dark.svg" width="48" height="48" alt="" />
-      </a>
-    </td>
-    <td align="center" width="98">
-      <a href="KartrexOfficial">
-        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/html.svg" width="48" height="48" alt="" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="98">
-      C++
-    </td>
-    <td align="center" width="98">
-      MySQL
-    </td>
-    <td align="center" width="98">
-      HTML5
-    </td>
-  </tr>
-</table>
-
-
 
 <h2 align="left" id="KartrexOfficial-stats">Activities & Stats</h2>
 
